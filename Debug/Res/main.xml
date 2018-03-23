@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window size="657,402" mininfo="200,300" caption="0,0,0,-1" sizebox="4,4,4,4" roundcorner="0,0,0,0">
+  <Font id="0" name="微软雅黑" size="12" bold="false" default="true" />
+  <Font id="1" name="微软雅黑" size="16" bold="true"/>
+  <Font id="2" name="微软雅黑" size="12" bold="false" underline="true" />
+  <HorizontalLayout name="hlt_bg" hole="true">
+  </HorizontalLayout>
+</Window>
